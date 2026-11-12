@@ -1,16 +1,15 @@
-## Hi there 👋
+# Desarrollo web y SEO técnico
 
-<!--
-**Vikir27/Vikir27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Trabajo en sitios web para clientes. He participado en la actualización de catálogos, la publicación en Cloudflare y la configuración de Google Search Console.
 
-Here are some ideas to get you started:
+## Proyectos seleccionados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Proyecto | Mi aporte |
+| --- | --- |
+| [Tierra Dinámica](https://tierra-dinamica.pages.dev/) | Actualización del catálogo y mejoras de SEO para las páginas de servicios y recursos. |
+| [Compañía Simpania](https://companiasimpania.com/) | Optimización de títulos, descripciones y sitemap. Conexión con Google Search Console. |
+| [The Doctors Car Studio](https://the-doctors-car-studio.pages.dev/) | Verificación del sitio en Google Search Console y envío de su sitemap. |
+
+## Herramientas
+
+HTML, CSS, JavaScript, Git, GitHub, Cloudflare y Google Search Console.
